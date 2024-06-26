@@ -11,7 +11,7 @@ Portfolio Template Using HTML/CSS
 # Preview
 
 ```bash
-https://Abdulla5678.github.io/Leon-Portfolio-Template/
+https://abdulla5678.github.io/portfolio/
 ```
 
 # Licence
